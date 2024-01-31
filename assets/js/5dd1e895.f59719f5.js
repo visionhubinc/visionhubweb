@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_hub=self.webpackChunkvision_hub||[]).push([[968],{1337:e=>{e.exports=JSON.parse('{"title":"Sitemap","slug":"/category/sitemap","permalink":"/visionhubweb/docs/category/sitemap","navigation":{"previous":{"title":"Home","permalink":"/visionhubweb/docs/"},"next":{"title":"About Us","permalink":"/visionhubweb/docs/Sitemap/About Us"}}}')}}]);
